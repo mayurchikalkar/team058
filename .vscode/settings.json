@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8cead225-7369-4b5c-8390-41bae15882a1/resourceGroups/team058-rg/providers/Microsoft.Web/sites/team058",
+    "appService.deploySubpath": "API\\bin\\Publish"
+}
